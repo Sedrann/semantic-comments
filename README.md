@@ -5,7 +5,7 @@ The comments are divided into 2 main categories, although in some cases one unde
 
 **State of the code:**
 
-```md
+<pre>
 <!-- ̿̿ ̿'̿'\̵͇̿̿\з=(•_•)=ε/̵͇̿̿/'̿'̿ ̿ -->
 **Hands up this is a robbery:**
 The following code is simply a robbery of another person.
@@ -70,5 +70,4 @@ This code contains a lot of old and deprecated stuff, but it works and it's almo
 **The holy bible:**
 This code is core. Be very careful with your actions.
 
-
-```
+</pre>
