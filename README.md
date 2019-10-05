@@ -3,7 +3,7 @@
 Semantic comments is a simple and descriptive way to indicate the state of the code or the mood of the author when coding it.
 The comments are divided into 2 main categories, although in some cases one underlines the other.
 
-State of the code:
+## State of the code
 
 ```html
 <!-- ̿̿ ̿'̿'\̵͇̿̿\з=(•_•)=ε/̵͇̿̿/'̿'̿ ̿ -->
@@ -36,11 +36,6 @@ I'm not a scientific:
 The code isn't the problem, but it has some sort of complex maths on it.
 
 
-<!--♡〜ლ(๑癶ᴗ癶๑)ლ〜♡-->
-Oh, my lovely piece:
-This code was handcrafted with love, and the author(s) dedicated so much to it. Please don't ruin it.
-
-
 <!--┬┴┬┴┤ (ಠ ͜ʖ├┬┴┬┴-->
 Psst, you didn't see nothing:
 The author commited intentionally a bad practice. Just keep moving.
@@ -63,6 +58,15 @@ The author of this incomplete code was fired or he left. Now, the code needs to 
 
 <!--〜(￣▽￣〜)(〜￣▽￣)〜-->
 Relax buddy:
-This code contains a lot of old and deprecated stuff, but it works and it's almost readable.
+This code contains a lot of old and deprecated stuff, but it works and it's almost readable, so just relax.
+
+```
+
+## Context of the author
+
+```html
+<!--♡〜ლ(๑癶ᴗ癶๑)ლ〜♡-->
+Oh, my lovely piece:
+This code was handcrafted with love, and the author(s) dedicated so much to it. Please don't ruin it.
 
 ```
