@@ -1,0 +1,12 @@
+{
+  "robbery": {
+    "prefix": "<robbery",
+    "body": "<!-- \u033F\u033F \u033F'\u033F'\\\u0335\u0347\u033F\u033F\\\u0437=(\u2022_\u2022)=\u03B5\/\u0335\u0347\u033F\u033F\/'\u033F'\u033F \u033F -->",
+    "description": "The following code is simply a robbery of another person."
+  },
+  "magic": {
+    "prefix": "<magic",
+    "body": "<!--(\u3064\u25D5\u0C6A\u25D5)\u3064\u2501\u2606\uFF9F.*\uFF65\uFF61\uFF9F-->",
+    "description": "This code works purely by magic and someone should study it."
+  }
+}

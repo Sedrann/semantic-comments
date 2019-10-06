@@ -2,17 +2,14 @@
 	"name": "semantic-comments",
 	"displayName": "semantic-comments",
 	"description": "",
+	"publisher": "test",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
 	"categories": [
-		"Other"
+		"Snippets"
 	],
-	"activationEvents": [
-		"*"
-	],
-	"main": "./out/extension.js",
 	"contributes": {
 		"configuration": {
 			"title": "Semantic Comments",
@@ -25,10 +22,10 @@
 				}
 			}
 		},
-		"commands": [
+		"snippets": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"language": "html",
+				"path": "./snippets/snippets.json"
 			}
 		]
 	},
