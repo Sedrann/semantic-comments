@@ -1,27 +1,20 @@
 {
 	"name": "semantic-comments",
 	"displayName": "semantic-comments",
-	"description": "",
-	"publisher": "test",
+	"description": "Add semantic code snippets",
+	"publisher": "Sedran",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.38.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sedrann/semantic-comments"
 	},
 	"categories": [
 		"Snippets"
 	],
 	"contributes": {
-		"configuration": {
-			"title": "Semantic Comments",
-			"properties": {
-				"Toggle suggestions": {
-					"type": "boolean",
-					"scope": "resource",
-					"default": true,
-					"description": "Enable auto suggestions"
-				}
-			}
-		},
 		"snippets": [
 			{
 				"language": "html",
