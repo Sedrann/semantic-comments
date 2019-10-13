@@ -1,0 +1,74 @@
+{
+  "robbery": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "robbery",
+    "body": "$BLOCK_COMMENT_START \u033F\u033F \u033F'\u033F'\\\u0335\u0347\u033F\u033F\\\u0437=(\u2022_\u2022)=\u03B5\/\u0335\u0347\u033F\u033F\/'\u033F'\u033F \u033F $BLOCK_COMMENT_END",
+    "description": "The following code is simply a robbery of another person."
+  },
+  "magic": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "magic",
+    "body": "$BLOCK_COMMENT_START (\u3064\u25D5\u0C6A\u25D5)\u3064\u2501\u2606\uFF9F.*\uFF65\uFF61\uFF9F $BLOCK_COMMENT_END",
+    "description": "This code works purely by magic and someone should study it."
+  },
+  "help needed": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "help",
+    "body": "$BLOCK_COMMENT_START \u0CA5\uFE4F\u0CA5 $BLOCK_COMMENT_END",
+    "description": "For some mysterious reason, this code does not work."
+  },
+  "no time": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "rush",
+    "body": "$BLOCK_COMMENT_START \u30DF(\u30CE\uFF9F\u0414\uFF9F)\u30CE $BLOCK_COMMENT_END",
+    "description": "Code is written in a hurry, please do not criticize."
+  },
+  "monkey code": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "monkey",
+    "body": "$BLOCK_COMMENT_START \u2514@(\uFF65\uFF6A\uFF65)@\u2518 $BLOCK_COMMENT_END",
+    "description": "This is a monkey patch and needs more time to invest in it."
+  },
+  "not scientific": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "scientific",
+    "body": "$BLOCK_COMMENT_START \u10DA,\u1511\u2022\uFEAA\u035F\u0360\u2022\u1510.\u10DA $BLOCK_COMMENT_END",
+    "description": "Code is written in a hurry, please do not criticize."
+  },
+  "move along": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "move",
+    "body": "$BLOCK_COMMENT_START \u252C\u2534\u252C\u2534\u2524 (\u0CA0 \u035C\u0296\u251C\u252C\u2534\u252C\u2534 $BLOCK_COMMENT_END",
+    "description": "The author commited intentionally a bad practice. Just keep moving."
+  },
+  "hurts": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "hurts",
+    "body": "$BLOCK_COMMENT_START (\u0482\u25E1_\u25E1) $BLOCK_COMMENT_END",
+    "description": "Bloody and thick wounds were made by this code. It's dangerous."
+  },
+  "popcorn": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "popcorn",
+    "body": "$BLOCK_COMMENT_START (\u3063\u2580\u00AF\u2580)\u3064 $BLOCK_COMMENT_END",
+    "description": "The author of the code suggests you see this in practice to understand better what's up with this."
+  },
+  "fired": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "fird",
+    "body": "$BLOCK_COMMENT_START (\u30CE\u0CA0 \u2229\u0CA0)\u30CE\u5F61( \\o\u00B0o)\\ $BLOCK_COMMENT_END",
+    "description": "The author of this incomplete code was fired or he left. Now, the code needs to be deeply readen to continue it."
+  },
+  "relax": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "fird",
+    "body": "$BLOCK_COMMENT_START \u301C(\uFFE3\u25BD\uFFE3\u301C)(\u301C\uFFE3\u25BD\uFFE3)\u301C $BLOCK_COMMENT_END",
+    "description": "This code contains a lot of old and deprecated stuff, but it works and it's almost readable, so just relax."
+  },
+  "my lovely piece": {
+    "scope": "abap,bat,bibtex,clojure,coffeescript,c,cpp,csharp,css,diff,dockerfile,fsharp,go,groovy,handlebars,html,ini,java,javascript,javascriptreact,json,jsonc,latex,less,lua,makefile,markdown,objective-c,objective-cpp,perl,php,powershell,jade,python,r,razor,ruby,rust,scss,sass,shaderlab,shellscript,sql,swift,typescript,typescriptreact,tex,vb,xml,xsl,yaml,",
+    "prefix": "lovely",
+    "body": "$BLOCK_COMMENT_START \u2661\u301C\u10DA(\u0E51\u7676\u1D17\u7676\u0E51)\u10DA\u301C\u2661 $BLOCK_COMMENT_END",
+    "description": "This code was handcrafted with love, and the author(s) dedicated so much to it. Please don't ruin it."
+  },
+}
